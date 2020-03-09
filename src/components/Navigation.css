@@ -1,0 +1,19 @@
+.navDiv {
+    position: absolute;
+    width: 100px;
+    left: 0;
+    top: 30px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25), 
+    0 8px 16px -8px rgba(0, 0, 0, 0.3),
+     0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.navDiv a{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+}
